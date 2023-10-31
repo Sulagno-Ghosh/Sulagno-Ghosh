@@ -34,12 +34,6 @@
 
 
 
-
-
-
-
-
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
