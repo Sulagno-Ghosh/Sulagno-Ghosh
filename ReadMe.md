@@ -29,9 +29,9 @@
 <div align = "center">
 
 
-- 🔭 I’m currently working on **Rust, NextJS-13, SurrealDB, Nodejs, MongoDB, Large Language Models**
-- 🌱 I’m currently learning **Rust and it's tech stack to understand how to build efficient CLI tools.**
-- ☁️ I've keen interest in Quant Finance and actively participate in Kaggle competitions.
+ 🔭 I’m currently working on **Rust, NextJS-13, SurrealDB, Nodejs, MongoDB, Large Language Models**
+ 🌱 I’m currently learning **Rust and it's tech stack to understand how to build efficient CLI tools.**
+ ☁️ I've keen interest in Quant Finance and actively participate in Kaggle competitions.
 
 
 </div>
