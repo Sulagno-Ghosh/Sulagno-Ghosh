@@ -18,7 +18,7 @@
 
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
+<div id="user-content-toc" align = "center">
   <ul align="center">
     <summary><h2 style="display: inline-block">Everyone is confused but pretending not be...</h2></summary>
   </ul>
