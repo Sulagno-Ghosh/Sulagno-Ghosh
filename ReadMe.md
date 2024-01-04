@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on **Rust, Go, NextJS-13, SurrealDB, Nodejs, MongoDB, Large Language Models, Pytorch, Postgres, Docker**
 - 🌱 I’m currently learning **Go and it's tech stack to understand how to build efficient fullstack Web Applications.**
-- ☁️ I've keen interest in Quant Finance and actively participate in Kaggle competitions.
+- ☁️ I've keen interest in AI and machine learning and actively participate in Kaggle competitions.
 
 
 </div>
