@@ -29,7 +29,7 @@
 <div align = "center">
 
 
-- 🔭 I’m currently working on **Rust, Go, NextJS-13, SurrealDB, Nodejs, MongoDB, Large Language Models, Pytorch, Postgres, Docker**
+- 🔭 I’m currently Software engineering Lead at atlantiq AI working on AI automations at a large scale.
 - 🌱 I’m currently learning **Go and it's tech stack to understand how to build efficient fullstack Web Applications.**
 - ☁️ I've a keen interest in AI and machine learning and actively participate in Kaggle competitions.
 
